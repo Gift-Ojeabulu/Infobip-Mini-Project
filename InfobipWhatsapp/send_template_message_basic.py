@@ -3,11 +3,10 @@ import requests
 """
  * Send WhatsApp template message directly by calling HTTP endpoint.
  *
- * THIS CODE EXAMPLE IS READY BY DEFAULT. HIT RUN TO SEND THE MESSAGE!
  *
  * Send WhatsApp API reference: https://www.infobip.com/docs/api#channels/whatsapp/send-whatsapp-template-message
  *
- * See Readme file for details.
+ 
 """
 
 BASE_URL = "https://ej23g2.api.infobip.com"
