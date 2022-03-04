@@ -2,9 +2,6 @@
 
 Click the "Run" button at the top-right corner.
 
-For your convenience, examples are already pre-populated with your account data like authentication, base URL and phone number.
-
-
 
 ## Variables
 
@@ -14,7 +11,7 @@ API_KEY : Authentication method. Please visit API documentation Get started page
 
 SENDER : Registered WhatsApp sender number. Must be in international format.
 
-RECIPIENT : Message recipient phone number. Note that during the trial you can only send messages to the mobile number you connected to the sandbox.
+RECIPIENT : Message recipient phone number. Note that during the trial you can only send messages to the mobile number you connected.
 
 ## Links
 
