@@ -4,9 +4,9 @@
 
 ![Infobip Email Response](https://github.com/Gift-Ojeabulu/Infobip-Mini-Project/blob/main/Infobip-screenshot.PNG)
 
-The HTTP 200 OK success status response code indicates that the request has succeeded.
+- Whatsapp Response
 
-![Infobip Email Response](https://github.com/Gift-Ojeabulu/Infobip-Mini-Project/blob/main/Infobip-screenshot.PNG)
+![Infobip Whatsapp Response](https://github.com/Gift-Ojeabulu/Infobip-Mini-Project/blob/main/WhatsappInfobip.PNG)
 
 
 
