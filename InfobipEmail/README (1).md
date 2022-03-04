@@ -2,7 +2,6 @@
 
 Click the "Run" button.
 
-For your convenience, examples are already pre-populated with your account data like authentication, base URL and email addresses.
 
 ## Variables
 
