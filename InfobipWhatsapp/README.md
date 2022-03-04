@@ -4,8 +4,7 @@ Click the "Run" button at the top-right corner.
 
 For your convenience, examples are already pre-populated with your account data like authentication, base URL and phone number.
 
-Message template can be sent at any time, while text message can only be sent within 24 hours from the last incoming message.
-Each template needs to be registered and pre-approved by WhatsApp.
+
 
 ## Variables
 
