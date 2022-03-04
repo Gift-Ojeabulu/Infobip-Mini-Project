@@ -9,6 +9,9 @@ import requests
  
 """
 
+# Note this is just an example as you cannot use this API key, they are meant to be private, this is jus an expmple project.
+# 
+
 BASE_URL = "https://ej23g2.api.infobip.com"
 API_KEY = "App a8a0491b7117dd3242a73b437cc03c88-6f95bc75-1966-4ad1-b5dc-98ac94ccf5af"
 
